@@ -1,8 +1,10 @@
 import React from 'react'
+import DropDown from './components/DropDown'
+import HomePage from './pages/HomePage'
 
 const App = () => {
   return (
-    <div></div>
+    <HomePage />
   )
 }
 
